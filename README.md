@@ -1,5 +1,5 @@
 # libgcc_s_sjlj-1.dll
-libgcc_s_sjlj-1.dll , hybrid gcc dll linux windows , fortran , java , jit , 10.2.0-posix , ada , i686-w64-mingw32
+libgcc_s_sjlj-1.dll , hybrid gcc dll linux windows , fortran , java , jit , 10.2.0-posix , ada , i686-w64-mingw32 , sdl
 
 https://github.com/Griggorii/libgcc_s_sjlj-1.dll/blob/main/LICENSE
 
